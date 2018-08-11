@@ -1,2 +1,36 @@
 # snake
-This game features a player-controlled snake that moves around a game grid hunting for an apple. When your snake eats an apple, it grows longer by a segment, and a new apple appears. If your snake reaches a certain length, you win. But if your snake crosses over its own body, you lose.
+
+FIXME: description
+
+## Installation
+
+Download from http://example.com/FIXME.
+
+## Usage
+
+FIXME: explanation
+
+    $ java -jar snake-0.1.0-standalone.jar [args]
+
+## Options
+
+FIXME: listing of options this app accepts.
+
+## Examples
+
+...
+
+### Bugs
+
+...
+
+### Any Other Sections
+### That You Think
+### Might be Useful
+
+## License
+
+Copyright © 2018 FIXME
+
+Distributed under the Eclipse Public License either version 1.0 or (at
+your option) any later version.

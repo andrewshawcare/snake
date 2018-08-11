@@ -1,0 +1,7 @@
+version: '3'
+services:
+  snake:
+    build: .
+    command: repl
+    volumes:
+      - .:/usr/src/app
